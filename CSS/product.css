@@ -1,0 +1,14 @@
+.product-img{
+  margin: auto;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+.add-to-cart-button {
+  display: block;
+}
+
+.conatiner {
+  margin: auto !important;
+}

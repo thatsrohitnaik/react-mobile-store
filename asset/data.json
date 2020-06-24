@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple iPhone SE (Black, 64 GB)",
+      "brand": "Apple",
+      "cost": 1000,
+      "imgPath":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+      "specs":["64 GB ROM","11.94 cm (4.7 inch) Retina HD Display","12MP Rear Camera | 7MP Front Camera","A13 Bionic Chip with 3rd Gen Neural Engine Processor","Water and Dust Resistant (1 meter for Upto 30 minutes, IP67)",
+      "Fast Charge Capable","Wireless charging (Works with Qi Chargers | Qi Chargers are Sold Separately"],
+      "inCart": false
+    },
+    {
+      "id": 2,
+      "title": "Apple iPhone SE (Black, 64 GB)",
+      "brand": "Apple",
+      "cost": 1000,
+      "imgPath":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+      "specs":["64 GB ROM","11.94 cm (4.7 inch) Retina HD Display","12MP Rear Camera | 7MP Front Camera","A13 Bionic Chip with 3rd Gen Neural Engine Processor","Water and Dust Resistant (1 meter for Upto 30 minutes, IP67)",
+      "Fast Charge Capable","Wireless charging (Works with Qi Chargers | Qi Chargers are Sold Separately"],
+      "inCart": false
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone SE (Black, 64 GB)",
+      "brand": "Apple",
+      "cost": 1000,
+      "imgPath":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+      "specs":["64 GB ROM","11.94 cm (4.7 inch) Retina HD Display","12MP Rear Camera | 7MP Front Camera","A13 Bionic Chip with 3rd Gen Neural Engine Processor","Water and Dust Resistant (1 meter for Upto 30 minutes, IP67)",
+      "Fast Charge Capable","Wireless charging (Works with Qi Chargers | Qi Chargers are Sold Separately"],
+      "inCart": false
+    },
+    {
+      "id": 4,
+      "title": "Apple iPhone SE (Black, 64 GB)",
+      "brand": "Apple",
+      "cost": 1000,
+      "imgPath":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+      "specs":["64 GB ROM","11.94 cm (4.7 inch) Retina HD Display","12MP Rear Camera | 7MP Front Camera","A13 Bionic Chip with 3rd Gen Neural Engine Processor","Water and Dust Resistant (1 meter for Upto 30 minutes, IP67)",
+      "Fast Charge Capable","Wireless charging (Works with Qi Chargers | Qi Chargers are Sold Separately"],
+      "inCart": false
+    },
+    {
+      "id": 5,
+      "title": "Mobile 2",
+      "brand": "Apple",
+      "cost": 1000,
+      "imgPath":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+      "specs":["64 GB ROM","11.94 cm (4.7 inch) Retina HD Display","12MP Rear Camera | 7MP Front Camera","A13 Bionic Chip with 3rd Gen Neural Engine Processor","Water and Dust Resistant (1 meter for Upto 30 minutes, IP67)",
+      "Fast Charge Capable","Wireless charging (Works with Qi Chargers | Qi Chargers are Sold Separately"],
+      "inCart": false
+    },
+    {
+      "id": 6,
+      "title": "Apple iPhone SE (Black, 64 GB)",
+      "brand": "Apple",
+      "cost": 1000,
+      "imgPath":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+      "specs":["64 GB ROM","11.94 cm (4.7 inch) Retina HD Display","12MP Rear Camera | 7MP Front Camera","A13 Bionic Chip with 3rd Gen Neural Engine Processor","Water and Dust Resistant (1 meter for Upto 30 minutes, IP67)",
+      "Fast Charge Capable","Wireless charging (Works with Qi Chargers | Qi Chargers are Sold Separately"]
+    },
+    {
+      "id": 7,
+      "title": "Apple iPhone SE (Black, 64 GB)",
+      "brand": "Apple",
+      "cost": 1000,
+      "imgPath":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjfehbbqgb.jpeg?q=70",
+      "specs":["64 GB ROM","11.94 cm (4.7 inch) Retina HD Display","12MP Rear Camera | 7MP Front Camera","A13 Bionic Chip with 3rd Gen Neural Engine Processor","Water and Dust Resistant (1 meter for Upto 30 minutes, IP67)",
+      "Fast Charge Capable","Wireless charging (Works with Qi Chargers | Qi Chargers are Sold Separately"],
+      "inCart": false
+    }
+  ],
+  "cart": []
+}
